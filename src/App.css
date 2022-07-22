@@ -1,0 +1,41 @@
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.red {
+  color: red;
+}
+
+
+.form-group{
+  width: 400px;
+}
+
+
+.form-wrap{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+label{
+  font-size: 1rem;
+  font-weight: 800;
+    text-transform: capitalize;
+}
